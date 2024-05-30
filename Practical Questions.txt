@@ -1,0 +1,129 @@
+🔰-Practical Questions:
+
+    1.Write a program to sort an Array.
+    2. Write a program to find element occurence in array
+    3. Write a program to remove duplicate item from array
+    4. What will be output of that code
+        Const firstname = fun();
+        Let name = ‘vivek’
+        Function fun(){
+        Return `my is ${name} malviya`
+        }
+        console.log(firstname);
+    5. Write a program for following output
+        console.log("output with normal function",mul(2)(4)(6))
+    6. Write a program for following output using arrow function
+        const call = (a) => {
+         return (b) => {
+          return (c) => {
+           return a * b * c;
+           };
+          };
+         };
+        console.log("output with arrow function", mul(2)(4)(6));
+    7. Write a program return resolve if value is less than 5 using Promise
+    8.What will be output for this program ?
+        for (let i = 0; i < 5; i++) {
+         setTimeout(function () {
+         console.log(i);
+         }, i * 1000);
+        }
+          And
+        for (var i = 0; i < 5; i++) {
+         setTimeout(function () {
+         console.log(i);
+         }, i * 1000);
+        }
+    9.Write a program to multiply two number without using multiply Sign in Javascript
+        function multiplay(a, b) {
+         let answer = a;
+          for (let i = 0; i < b - 1; i++) {
+           answer += a;
+           }
+          return answer;
+         }
+        console.log(multiplay(5, 3));
+    10.Write a program sorting in javascript
+        const arr = [3,2,5,4,1,0]
+         for (let i = 0; i < arr.length; i++) {
+          for (let j = i+1; j < arr.length; j++) {
+           if(arr[i] < arr[j]) {
+            let temp = arr[i];
+             arr[i] = arr[j];
+             arr[j] = temp;
+            }
+          }
+        }
+        console.log("Elements of array sorted in ascending order:");
+         for (let i = 0; i < arr.length; i++) {
+          console.log("Elements of array sorted in ascending order",
+        arr[i]);
+        }
+    11.What will be output ?
+        var num = 4;
+        function outer() {
+         var num = 2;
+         function inner() {
+          num++;
+           var num = 3;
+          console.log("num", num);
+          }
+         inner();
+        }
+        outer();
+        function sayHi() {
+        return (() => 0)();
+        }
+    12.hat's the console output of?
+        const a = {};
+        const b = { key: 'b' };
+        const c = { key: 'c' };
+        a[b] = 123;
+        a[c] = 456;
+        console.log(a[c]);
+    13.Write a program to make polyfill for map method in javascript
+        Array.prototype.mymap = function (cb) {
+          let temp = [];
+          for (let i = 0; i < this.length; i++) {
+           temp.push(cb(this[i]));
+          }
+         return temp;
+        };
+        const arr = [2, 3, 4, 5];
+        const result = arr.mymap((num) => {
+        return num * 5;
+        });
+        console.log("result", result);
+    14.Write a program to make polyfill for filter method in javascript
+        Array.prototype.myFilter = function (cb) {
+          let temp = [];
+          for (let i = 0; i < this.length; i++) {
+           if (cb(this[i], i, this)) temp.push(cb(this[i]));
+          }
+         return temp;
+        };
+          const arr = [2, 3, 4, 5];
+          console.log("arr", arr);
+          const data = arr.filter((num) => {
+          return num > 2;
+         });
+        console.log("resultnumber", data);
+    15.Write a program to make polyfill for reduce method in javascript
+        Array.prototype.myReducer = function (cb, initialValue) {
+          var accumulator = initialValue;
+          for (i = 0; i < this.length; i++) {
+           accumulator = accumulator ? cb(this[i], i, this) : this[i];
+          }
+         return accumulator;
+        };
+        const arr = [2, 3, 4, 5];
+        const sumOfArray = arr.myReducer((accu, curr, index, arr) => {
+        return (accu += curr);
+        }, 0);
+        console.log("polyfil", sumOfArray);
+    
+
+
+
+
+

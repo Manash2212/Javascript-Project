@@ -1,0 +1,115 @@
+
+ 💠70 Interview question PDF.
+
+ 💥What are the different types of Datatypes present in JavaScript?
+ 💠Top 20 I Questions #PDF
+ 💥What is the difference between Attributes and Property?
+1.What is the difference between Undefined and null? 🔺2
+2. What does && Operator do?
+3. What does || Operator do?
+4. The fastest way to converting a string to to a number.
+    i: Is using + Operator or unery Operator.
+ 💠Top 20 I Questions #PDF
+5.What is DOM? 🔺2
+6.What is Event Propagation?
+7.What is Event Bubling? 🔺2
+8.What is Event Capturing? 🔺2
+9.What is the difference between event.PreventDefault() and event.StopPropagation() methods?
+10.How to know if the event.PreventDefault() method was used in an Element?
+11.Why does this code obj.someprop.x throw an error?
+12.What is event.target?
+13.What is event.currentTarget?
+ 💠Javascript Questions 8 #PDF and 💠Top 20 I Questions #PDF
+14.What is the difference between == and === ?🔺3
+15.What does the !! Operator do?
+16.Why does it returns false when comparing two similar objects in javascript?
+17.How to evaluate multiple expressions in one line?
+18.What is Hoisting?🔺3
+ 💠Top 20 I Questions #PDF
+19.What is closures? 🔺3
+ 💠Scope in javascript #PDF
+20.What is Scope? and How many scopes are present in JavaScript?🔺2
+21.What are the Falsy values in javascript? 🔺2
+22.How to check if the value is falsy?
+ 💠Top 20 I Questions #PDF
+23.what does "use strict" do? 🔺2
+24.What is "this" keyword and what is the value of "this" in javascript? 🔺2
+25.What is the Prototype of an object in javascript?
+26.What is an IIFE, what is the use of it?
+27.What is the use of Function.Prototype.call method?
+28.What is the use of Function.Prototype.apply method?
+29.What is the difference between Function.Prototype.apply and Function.Prototype.call?
+30.What is the use of Function.Prototype.bind method?
+31.What is functional Programming and what are the features of javascript makes it a candiate as a functional language?
+32.What is Higer Order function? 🔺2
+33.Why are functions called First-class objects?
+34.Implement the Array.prototype.map method by hand?
+35.Implement the Array.prototype.filter method by hand?
+36.Implement the Array.prototype.reduce method by hand?
+37.What is the arguments object?
+38.How to create an object without a prototype ? 🔺2
+ 💠Top 20 Interview questions #PDF
+39.What is ECMAscript? 🔺3
+40.What are the new features of the ES6?
+41.What is difference between var,let and const keyword? 🔺4
+42.What are the Arrow function and how are they different from normal function? 🔺4
+43.What are classes?
+44.What are Template Literals?
+45.What are object Distructuring?
+46.What are ES6 modules?
+47.What is the Set Object and how does it work?
+48.What is callback function? 🔺2
+49.What are Promises? 🔺2
+50.What are async/await and how does it work? 🔺2
+51.What is the difference between spread Operator and Rest Operator?🔺2
+52.What are default parameters? 🔺2
+53.What are wrapper objects?
+54.What is the difference between implicits and Explicit Coercion?
+ 💠Top 20 I Questions #PDF
+55.What is NAN? and how to check if the value is None?🔺2
+56.How to check if the value is in Array?
+57.How to check if a number is even without using % or modulo operator?
+58.How to check if a certain Property exist in an object?
+59.What is Ajax?
+60.What are the ways of making an object in javascript? 🔺2
+61.What are the differences between Object.seal and Object.freeze methods? 🔺2  
+62.What is the difference between the in operator and the hasOwnProperty method in Object?
+63.What are the Ways to deal with Asynchronous code in JavaScript?
+64.What is the difference between a function expressions and function declarations in JavaScript? 🔺2
+65.How many ways a can a function can invoked? 🔺2
+66.What is memoization and what's is the use of it? 🔺2
+67.Implement memoization helper functions in javascript?
+68.Why does typeof null returns object? How to chck if a value is null?
+69.what does the new keyword do?
+70.What is Call, apply, and bind method and What is the difference between them and Why we use in javascript?🔺2
+71.What is Prototype Inheritance in javascript?
+72.What are Array methods?
+73.What are string methods?
+74.What is throttling and debouncing in javascript?
+75.What is execution context, event loop ,stack,call queue,microtask queue in Javascript
+76.What is SetTimeout and setInterval in javascript?
+77.What is the difference between map and set method in javascript?
+78. What is Weakmap and Weakset in Javascript?
+79. What is sessionStorage, localStorage , cookie, and how to store data in sessionStorage?
+80.What is the use json.stringify() and json.parse() in javascript?
+ 💠map,filter, reduce #PDF
+81.Difference between map,filter and reduce mathod in javascript? 🔺2
+82.What is generator function in javascript?
+83.How to stop event Propagation in javascript?
+84.What is dead zone in javascript?
+85.What is function currying in javascript?
+86.What is mutation observer in javascript?
+ 💠Javascript Questions 8 #PDF 
+87.Explain different methods we can use to select HTML elements from js DOM?
+ 💠Javascript Interview Questions 3 #PDF
+88.What is the difference between function and method in javascript?
+ 💠Most important Es6 question #PDF 
+89.What is the difference between slice and splice in javascript?
+90.What is [[[]]]?
+91.What is json, when it is Introduced in JavaScript, what are the advantages of json?
+ 💠API #PDF
+92.What is API?
+ 💠Rest API #PDF
+93.What is Rest API?
+
+
