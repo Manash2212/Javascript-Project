@@ -1,0 +1,53 @@
+    💠React Basic
+1.What is React and why it is used?
+2.How is React different from Angular and Vue?
+3.What is React Component ?
+4.How do you create a Component in React ?
+5.What is JSX and why do we use in React?
+6.Can you explain the Virtual DOM in React?
+7.What are the difference between a Class Component and a Functional Component?
+8.How do you handle Events in React
+9.What is State and Props in React? and what is the difference between them?
+10.How do you pass data between Components in React?
+
+    💠React State Management
+11.What is Stateful Component?
+12.Can you explain how useState works in React?
+13.How do you update state of Parent Component from a Clild Component?
+14.What is lifting state up in React?
+15.When do you use Redux or Context API for state management?
+
+    💠React LifeCycle and Hooks 
+16.Explain the LifeCycle methods of a React Class Component.
+17.How do Hooks works in React?
+18.Can you describe the useEffect hook and it's Purpose?
+19.How do you fetch data with hooks in React?
+20.What rules are you have to follow when using Hooks in React?
+
+    💠React Component Comunications
+21.How do Props work in React?
+22.What is Props drilling and how do you avoid it?
+23.Explain the Context API and it's use cases.
+24.How do you use Render Props in React?
+25.What is the Clildren Props?
+
+    💠React Performance Optimization
+26.Why is Performance Optimization is important in React?
+27.What is React.memo and when do we use it?
+28.How does PureComponent differ from Component in React?
+29.Can you explain the concept of RECONCILIATION in React?
+30.How can you prevent unnecessary re-Renders in Component?
+
+    💠Styling in React
+31.How do you apply styles in a React Application?
+32.What is Css-in-js and how do you implement it in React?
+33.Can you describe How Style-Component works?
+34.What are the advantages of using Sass or Less in a React Project?
+35.How do use inline styles in React?
+
+    💠React Routing 
+
+36.What is React Router?
+37.How do you create dynamic routes in a React Application?
+38.How do you pass data to routes in React Router v5+?
+39.How do you Programatically nagative using React Router?
