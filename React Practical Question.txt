@@ -1,0 +1,157 @@
+.............Funciton.............
+
+1.What is call, apply and bind? ----Nukr-19
+2.What are the Possible way to give deffualt arguments in function? ----Nukr-23
+3.In Js what does anonymous Functoin do? ----Nukr-19
+4.What does the isNaN function do? ----J_T_P52
+5.What is name function in js and how do u define? ----Edurk-9
+6.     also check the 10 Number Qestion in ----Edurk-10
+7.Ho do js passed Premitive/Object types in Function?
+8.How do you prevent promises swallowing errors? -----Sudher-web-408
+9.What is setTimeout function, and what is the use of setTimeout Function? -----Sudher-70
+10.What is setInterval function, and what is the use of setInterval Function? -----Sudher-71
+11.What is clearTimeOut function, and what is the use of clearTimeOut Function? -----Sudher-80
+12.What is clearInterval function, and what is the use of  clearInterval Function? -----Sudher-8 1
+13.What is the use of a constructor function in javascript? ----Inter_Bit
+14. What are generator functions?----Inter_Bit
+
+...............Objects------------------
+1.What are the possible ways to create objects in JavaScript? -----Sudher-web-1, see also ----Sudher-90, see also ----Inter_Bit 
+2.How can you create an object in JavaScript? -----Edurk-7
+3.What is the Purpose of This Opearator in javascript? -----Edurk-13
+4.What is argument objects in JavaScript & how to get the type of arguments passed to a function? -----Edurk-11
+5.What is the use of Math Object in JavaScript? -----jav-T-Po-70
+6. "    "  "   "   "  Date    "      "    "      ? -----jav-T-Po-71
+7. "    "  "   "   "  Number    "      "    "      ? -----jav-T-Po-72
+8. "    "  "   "   "  Boolean    "      "    "      ? -----jav-T-Po-73
+9. "    "  "   "   "  TypedArray    "      "    "      ? -----jav-T-Po-74
+10. "    "  "   "   "  Set    "      "    "      ? -----jav-T-Po-75
+11. "    "  "   "   "  Weakset    "      "    "      ? -----jav-T-Po-76
+12. "    "  "   "   "  Map    "      "    "      ? -----jav-T-Po-77
+13. "    "  "   "   "  Weakmap    "      "    "      ? -----jav-T-Po-78
+14.What is this keyword in JavaScript? ---Nukr-6
+15.What are screen Objects in JavaScript? ---Nukr-15
+16.How we can add or remmove Properties to objects in JavaScript? ---Nukr-29
+17.How do you compare object and map in JavaScript? ---Sudher-6
+18.What is the difference between native, hoast, and user Object ? ---Sudher-64
+19.What are argument objects in JavaScript? ---Sudher-84
+20.What are Proxy Objects in JavaScript? ---Sudher-105
+21.How can you get the list of keys of any object ? ---Sudher-111
+22.How do you create an object with prototype ? ---Sudher-112
+23.How do you define property on Object constructor  ? ---Sudher-120
+24.What are the different ways to access object properties ? ---Sudher-125
+25.What is an error object ? ---Sudher-126
+26.What is an object initializer in JavaScript? ---Sudher-web-254
+27.How do you get the prototype of an object in javascript ? ---Sudher-web-258
+28.How do you define multiple properties on an object in javascript ? ---Sudher-web-264
+29.How do you list all properties of an object in javascript ? ---Sudher-web-280
+30.What are enhanced object literals in javascript ? ---Sudher-web-317
+31.What is wrapper Object in javascript ? ---Sudher-web-380
+32.How do you make an object iterable in javascript? ---Sudher-web-410
+33.How do you check an object is a promise or not in javascript ? ---Sudher-web-412
+34.What are Object prototype? ----Inter_Bit
+35.What is Object Destructuring? ----Inter_Bit
+..........After Array and Object Questions and answers..........
+
+
+34.What is a rest parameter in javascript ? ---Sudher-web-185
+35.What happens if you do not use rest parameter as a last argument. ---Sudher-web-186
+36.What is a spread operator in javascript ? ---Sudher-web-188
+37.
+38.
+39.
+40.
+41.
+42.
+
+---------------JavaScript Events-----------------------
+
+1.	What are events in javascript ? ---Sudher-web-100 and see also CLIMB  
+2.What is an event flow. ---Sudher-web-85
+3.What is event bubbling. ---Sudher-web-86
+4.What is event capturing, ---Sudher-web-87
+5.What is the use of preventDefault method, ---Sudher-web-102
+6.What is the use of stopPropagation method, ---Sudher-web-103
+7.What is an event delegation. ---Sudher-web-109
+8.Why is JavaScript treated as Single threaded? ---Sudher-web-108
+9.	What is the difference between document load and DOMContentLoaded events. ---Sudher-web-90
+10.How do you display the current date in javascript? ---Sudher-web-131
+11.How do you compare two date objects ? ---Sudher-web-132
+12.Can you explain the different types of events available in JavaScript? ----CLIMB
+13.How is an event triggered or fired? ----CLIMB
+14.How do you handle multiple events with a single function in JavaScript? ----CLIMB
+15.What’s the difference between an Event Handler and an Event Listener? ----CLIMB
+16.What does “event bubbling” mean in JavaScript? ----CLIMB
+17.What is the difference between stopPropagation and preventDefault methods? ----CLIMB
+18.Can you give me some examples of HTML DOM Events? ----CLIMB
+19.What is the purpose of using the onblur() method? ----CLIMB
+20.Is it possible to use an arrow function as an event handler? If yes, then how? ----CLIMB
+21.In what order are events handled in JavaScript? ----CLIMB
+22.Are there any limitations when handling browser-specific events like mouseover() or keypress()? ----CLIMB
+23.Which is better, inline functions or external functions for event handlers? Why? ----CLIMB
+24.How can you cancel the effect of an event once it has been triggered?  ----CLIMB
+25. What happens if an event handler returns false? ----CLIMB
+26.What are synthetic events in ReactJS?  ----CLIMB
+27.Are there any differences in handling events from touch devices vs regular computers? ----CLIMB
+28.What is the significance of using passive event listeners in JavaScript?  ----CLIMB
+29.What’s the best way to minimize problems that may arise due to poor management of event listeners?  ----CLIMB
+30.Do you think it’s necessary to remove event listeners after they’ve been executed? Why or why not?  ----CLIMB
+
+
+---------------Windows/BOM/DOM-----------
+1.What is BOM? ----J_T_P-44
+2.What is DOM? what is the use of document object? ----J_T_P-45
+3.What is use of window of object? ----J_T_P-46
+4.What is the use of history of object? ----J_T_P-47
+5.What is the difference between Local storage & Session storage? ----Edurk-27
+6.What is the difference between window and document in javascript? ----Edurk-32
+7.What are screen objects in javascript? and what are their Properties ----hacker.io-10
+8.What are the different methods and properties in Windows object?   -----Nukr-18
+9.What is Service worker? ----Sudher-27
+10.How do you manipulate DOM using a service Workers? ----Sudher-28
+11.How do you reuse information across service worker restarts ----Sudher-
+12. What is the distinction between client-side and server-side JavaScript?  ----Inter_Bit
+
+
+
+-----Loop-----
+1.
+
+
+
+Everything you got -->https://www.scholarhat.com/tutorial/javascript/javascript-interview-questions-answers
+
+--------------Out of Importent Questions------------
+1. What is curring in javascript?
+3.What is the difference between spread operator and rest operator in JavaScript?
+4.What is bable?
+5.What is the difference between parameter and argument?
+6.What is Collition?
+7.What is Array buffer?
+8.Wxplain Scope and scope Chain in JavaScript? -----Inter_Bit
+9.Explain Closures? -----Inter_Bit
+10.What is Memoization? -----Inter_Bit
+11.What is recursion in a programming language? -----Inter_Bit
+12.What do mean by prototype design pattern? -----Inter_Bit
+
+
+
+
+--------Array---------
+1.Which method is used to retrieve a character from a certain index
+
+
+
+
+
+
+
+
+
+How do you make first letter of the string in an uppercase
+130	What are the pros and cons of for loops
+131	How do you display the current date in javascript
+132	How do you compare two date objects
+133	How do you check if a string starts with another string
+134	How do you trim a string in javascript
+135	How do you add a key value pair in javascript
